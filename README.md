@@ -51,7 +51,7 @@ Para executar este projeto, você precisará ter o **JDK (Java Development Kit)*
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/monickecunha/java-simple-crud-exceptions.git](https://github.com/monickecunha/java-simple-crud-exceptions.git)
+    git clone https://github.com/monickecunha/java-simple-crud-exceptions.git
     cd java-simple-crud-exceptions
     ```
 
